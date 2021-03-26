@@ -1,24 +1,24 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
-
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+**Course Date:** 22.03.2021  
+**Name:** Lara  
+**Surname:** Fenercioğlu  
+**Email:** larafenercioglu@gmail.com   
 
 ## Project Name
-Description of your project.
+GAIH Introduction to Machine Learning Final Project
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+pandas
+scikit-learn
+matplotlib
+numpy
+seaborn
 ```
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+
 
