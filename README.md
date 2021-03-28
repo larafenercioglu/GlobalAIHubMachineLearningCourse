@@ -6,9 +6,6 @@
 **Surname:** Fenercioğlu  
 **Email:** larafenercioglu@gmail.com   
 
-## Project Name
-GAIH Introduction to Machine Learning Final Project
-
 ## Requirements
 ```
 pandas
